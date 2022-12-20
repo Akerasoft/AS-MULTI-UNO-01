@@ -1,0 +1,8 @@
+Id,Designator,Package,Quantity,Description,MPN
+1,R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,10k resistor,Digikey S10KQCT-ND
+2,"C1,C2",C_Disc_D3.0mm_W2.0mm_P2.50mm,2,18pF ceramic capacitors,Digikey BC1004CT-ND
+3,"C3,C4,C5",C_Disc_D3.0mm_W2.0mm_P2.50mm,3,100nF ceramic capacitors,Digikey BC2665CT-ND
+4,J1,PinHeader_2x03_P2.54mm_Vertical,1,"2x3 .100"" pitch standard header",Digikey 609-3218-ND
+5,Y1,Crystal_HC52-6mm_Vertical,1,Crystal 12 MHz,Digikey CTX904-ND
+6,U1,DIP-28_W7.62mm,1,Atmega328a (or Atmega328),Digikey ATMEGA328-PU-ND
+7,U1,DIP-28_W7.62mm_Socket (optional),1,28 pin DIP socket,Digikey A120353-ND
