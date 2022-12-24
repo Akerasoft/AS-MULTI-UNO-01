@@ -9,3 +9,6 @@ Id,Designator,Package,Quantity,Description,MPN,Alt
 8,SW1,SW_PUSH_6mm_H4.3mm,1,Tactile Push Button Switch,Digikey 1977120-2-ND,"Taiss, Part KG-1, Amazon ASIN B0796QL57S"
 9,J2,JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal,1,JST XH S2B Horizontal,Digikey 455-4226-ND,
 10,J3,PinHeader_1x06_P2.54mm_Horizontal,1,6 Pin header Horizontal,Digikey 2057-PH1RB-06-UA-ND,
+11,J4,PinHeader Connector 1x06 2.54mm Vertical,1,CONN HDR 6POS 0.1 TIN PCB,Digikey S7004-ND,
+12,"J5,J6",PinHeader Connector 1x08 2.54mm Vertical,2,CONN HDR 8POS 0.1 TIN PCB,Digikey S7006-ND,
+13,J7,PinHeader Connector 1x10 2.54mm Vertical,1,"10 Position Header Connector 0.100"" (2.54mm) Through Hole Tin",Digikey S7008-ND,
